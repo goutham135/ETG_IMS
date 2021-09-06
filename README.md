@@ -7,4 +7,4 @@ Features & Functionalities:
 You can add more than 1 product at a time into the inventory.
 You can also purchase more than 1 product at a time.
 After adding all the products bill is automatically generated.
-In sales file, each transaction with unique id is stored with 
+In the sales file, each transaction with a unique id is stored with its respective bill details.
