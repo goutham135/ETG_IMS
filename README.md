@@ -12,4 +12,4 @@
 5. Each product has 6 functionalities: Name, Price, Quantity, Weight, Company, Expiry date, Company.
 
 # About Author
-My name is Goutham Reddy Velma. Im student, currently studying my undergraduation at Mahindra Ecole Centrale. 
+My name is Goutham Reddy Velma. I'm student, currently studying my undergraduation at Mahindra Ecole Centrale. 
